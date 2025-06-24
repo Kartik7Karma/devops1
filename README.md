@@ -1,3 +1,3 @@
 # devops1
-1st repo for devops
-author -- kartik budhlakoti
+1st repo for devops.
+Author -- kartik budhlakoti
